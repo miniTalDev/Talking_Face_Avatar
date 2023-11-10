@@ -30,15 +30,15 @@ or you can use APIs [Leonardo.Ai API Guide](https://docs.leonardo.ai/docs)
   
 <tr>
 <td>
-<img src="https://github.com/saba99/Talking_Face_Avatar/assets/33378412/12ffc93b-79f5-4cf0-a14d-f58cc050cc16" width="300px";height:"400px">
+<img src="https://github.com/miniTalDev/Talking_Face_Avatar/assets/33378412/12ffc93b-79f5-4cf0-a14d-f58cc050cc16" width="300px";height:"400px">
 
 </td>
 <td>
- <img src="https://github.com/saba99/Talking_Face_Avatar/assets/33378412/ef923464-1033-45ba-a067-2a21afbae8fa" width="300px";height:"400px">
+ <img src="https://github.com/miniTalDev/Talking_Face_Avatar/assets/33378412/ef923464-1033-45ba-a067-2a21afbae8fa" width="300px";height:"400px">
 
 </td>
 <td>
- <img src="https://github.com/saba99/Talking_Face_Avatar/assets/33378412/cfb315c5-35f8-4a76-945d-eca0393825b0" width="300px";height:"400px">
+ <img src="https://github.com/miniTalDev/Talking_Face_Avatar/assets/33378412/cfb315c5-35f8-4a76-945d-eca0393825b0" width="300px";height:"400px">
 
 
 </td>
@@ -69,18 +69,18 @@ or you can use APIs [ElevenLabs API Guide](https://api.elevenlabs.io/docs)
 <td>
 
 
-https://github.com/saba99/Talking_Face_Avatar/assets/33378412/bd68137d-2e67-41df-a1df-4162db170ff8
+https://github.com/miniTalDev/Talking_Face_Avatar/assets/33378412/bd68137d-2e67-41df-a1df-4162db170ff8
 
 
 </td>
 <td>
 
-https://github.com/saba99/Talking_Face_Avatar/assets/33378412/f622369b-9e69-492d-975b-685671c663c1
+https://github.com/miniTalDev/Talking_Face_Avatar/assets/33378412/f622369b-9e69-492d-975b-685671c663c1
 
 </td>
 <td>
 
-https://github.com/saba99/Talking_Face_Avatar/assets/33378412/1f78eb67-cc76-4c9a-8664-a28f3f795bee
+https://github.com/miniTalDev/Talking_Face_Avatar/assets/33378412/1f78eb67-cc76-4c9a-8664-a28f3f795bee
 
 </td> 
 
@@ -122,7 +122,7 @@ https://github.com/saba99/Talking_Face_Avatar/assets/33378412/1f78eb67-cc76-4c9a
 
 2. Creating the env and install the requirements.
   ```bash
-  git clone https://github.com/saba99/Talking_Face_Avatar.git
+  git clone https://github.com/miniTalDev/Talking_Face_Avatar.git
 
   cd SadTalker 
 
@@ -143,7 +143,7 @@ https://github.com/saba99/Talking_Face_Avatar/assets/33378412/1f78eb67-cc76-4c9a
 ### UI + API:
   look at index.html 
 
-![Screenshot (4899)](https://github.com/saba99/Talking_Face_Avatar/assets/33378412/f922a6e8-38da-4b2a-b339-7a689dc33bc9) 
+![Screenshot (4899)](https://github.com/miniTalDev/Talking_Face_Avatar/assets/33378412/f922a6e8-38da-4b2a-b339-7a689dc33bc9) 
 
 
 ## 📥 2. Download Trained Models.
